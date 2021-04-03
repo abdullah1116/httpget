@@ -1,6 +1,7 @@
 HttpGet creates multiples XHR requested inside the node server, for testing connections.
 
 CLI
+
 `node . [no of connections] [URL]`
 
 Default
