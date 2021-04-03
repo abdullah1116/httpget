@@ -1,5 +1,5 @@
 # HttpGet
-HttpGet creates multiples XHR requestes inside the node server, for testing connections and etc...
+HttpGet creates multiples XHR requests inside the node server, for testing connections and etc...
 
 ## CLI
 ```
