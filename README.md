@@ -2,7 +2,7 @@ HttpGet creates multiples XHR requested inside the node server, for testing conn
 
 CLI
 
-`node . [no of connections] [URL]`
+```node . [no of connections] [URL]```
 
 Default
 
